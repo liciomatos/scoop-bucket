@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/liciomatos/pgdba/releases/download/v0.2.0/pgdba-cli_0.2.0_windows_amd64.zip",
+            "bin": [
+                "pgdba-cli.exe"
+            ],
+            "hash": "3137cd73a86afe0e6c9963faaf6013a3ee936c75f75d45ae0e555f0933e4934e"
+        }
+    },
+    "homepage": "https://github.com/liciomatos/pgdba",
+    "license": "MIT",
+    "description": "Terminal UI for PostgreSQL DBAs — interactive diagnostics directly in the terminal."
+}

@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/liciomatos/pgdba/releases/download/v0.2.0/pgdba-cli_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/liciomatos/pgdba/releases/download/v0.3.0/pgdba-cli_0.3.0_windows_amd64.zip",
             "bin": [
                 "pgdba-cli.exe"
             ],
-            "hash": "3137cd73a86afe0e6c9963faaf6013a3ee936c75f75d45ae0e555f0933e4934e"
+            "hash": "8cc99cf929f0bd8407b569d3ba308f325d925f0e39862b505adedf6f3336073f"
         }
     },
     "homepage": "https://github.com/liciomatos/pgdba",
